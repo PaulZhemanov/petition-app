@@ -1,0 +1,8 @@
+[submodule "fuel-petition-frontend-boilerplate"]
+    path = fuel-petition-frontend-boilerplate
+    url = https://github.com/0xmetaschool/fuel-petition-frontend-boilerplate
+
+[submodule "petition-contract"]
+    path = petition-contract
+    url = https://github.com/0xmetaschool/petition-contract
+
